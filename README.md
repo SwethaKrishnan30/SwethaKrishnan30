@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Swetha Krishnan
+- 👋 Hi, I’m Swetha K
 - 👀 I’m interested in Data Analyst and Data Scientist 
 - 🌱 I’m currently learning - Post graduate in the department of Data Science. 
 - 💞️ I’m looking to collaborate on Data analysis projects, and Data visualisation projects.
